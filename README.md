@@ -1,5 +1,5 @@
 #Simple Chat App
-![alt stocks](https://github.com/ginoskotheon/stockapp/blob/master/talking-mouth.png)
+![alt stocks](https://github.com/ginoskotheon/stockapp/blob/master/assets/talking-mouth.png)
 ##### by William McDonald
 
 Single Page App that allows multiple people to chat at the same time.
